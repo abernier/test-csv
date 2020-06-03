@@ -1,0 +1,269 @@
+name,ft_active,ft_seq,ft_vert,ft_seq_index,ft_vert_index,ft_order,pt_active,pt_seq,pt_vert,pt_seq_index,pt_vert_index,pt_order,tag,file,hackmd,created_at,,last file commit before this date,,,PR,merged
+Code of Conduct during the bootcamp,TRUE,Tips & tricks for success,Info tabs,0,0,0,TRUE,Tips & tricks for success,Info tabs,0,0,0,EXTRA,info/code-of-conduct.md,,,,,,,,FALSE
+Link to  the GitHub class organization,TRUE,Tips & tricks for success,Info tabs,0,0,1,TRUE,Tips & tricks for success,Info tabs,0,0,1,EXTRA,info/gh-class-rg.m,,,,,,,,FALSE
+Guidelines on how to submit the labs,TRUE,Tips & tricks for success,Info tabs,0,0,2,TRUE,Tips & tricks for success,Info tabs,0,0,2,EXTRA,info/guidelines-labs.md,,,,,,,,FALSE
+No class dates,TRUE,Tips & tricks for success,Info tabs,0,0,3,TRUE,Tips & tricks for success,Info tabs,0,0,3,EXTRA,info/no-class-dates.md,,,,,,,,FALSE
+Contacts,TRUE,Tips & tricks for success,Info tabs,0,0,4,TRUE,Tips & tricks for success,Info tabs,0,0,4,EXTRA,info/contacts.md,,,,,,,,FALSE
+Career Services,TRUE,Tips & tricks for success,Info tabs,0,0,5,FALSE,Tips & tricks for success,Info tabs,0,0,5,EXTRA,info/career.md,,,,,,,,FALSE
+Upcoming events,TRUE,Tips & tricks for success,Info tabs,0,0,6,FALSE,Tips & tricks for success,Info tabs,0,0,6,EXTRA,info/events.md,,,,,,,,FALSE
+Time distribution,FALSE,,,,,,TRUE,Tips & tricks for success,Module 1,0,1,0,EXTRA,info/pt-time-dist-m1.md,,,,,,,,FALSE
+Module 1 - topics - overview,TRUE,Tips & tricks for success,Module 1,0,1,1,TRUE,Tips & tricks for success,Module 1,0,1,1,EXTRA,info/topics-m1.md,,,,,,,,FALSE
+Expectations,TRUE,Tips & tricks for success,Module 1,0,1,2,TRUE,Tips & tricks for success,Module 1,0,1,2,EXTRA,info/expectations.md,,,,,,,,FALSE
+Requirements for win-win,TRUE,Tips & tricks for success,Module 1,0,1,3,TRUE,Tips & tricks for success,Module 1,0,1,3,EXTRA,info/requirements-m1.md,,,,,,,,FALSE
+Time distribution,FALSE,,,,,,TRUE,Tips & tricks for success,Module 2,0,2,0,EXTRA,info/pt-time-dist-m2.md,,,,,,,,FALSE
+Module 2 - topics - overview,TRUE,Tips & tricks for success,Module 2,0,2,1,TRUE,Tips & tricks for success,Module 2,0,2,1,EXTRA,info/topics-m2.md,,,,,,,,FALSE
+Expectations,TRUE,Tips & tricks for success,Module 2,0,2,2,TRUE,Tips & tricks for success,Module 2,0,2,2,EXTRA,info/expectations.md,,,,,,,,FALSE
+Requirements for win-win,TRUE,Tips & tricks for success,Module 2,0,2,3,TRUE,Tips & tricks for success,Module 2,0,2,3,EXTRA,info/requirements-m2.md,,,,,,,,FALSE
+Time distribution,FALSE,,,,,,TRUE,Tips & tricks for success,Module 3,0,3,0,EXTRA,info/pt-time-dist-m3.md,,,,,,,,FALSE
+Module 3 - topics - overview,TRUE,Tips & tricks for success,Module 3,0,3,1,TRUE,Tips & tricks for success,Module 3,0,3,1,EXTRA,info/topics-m3.md,,,,,,,,FALSE
+Expectations,TRUE,Tips & tricks for success,Module 3,0,3,2,TRUE,Tips & tricks for success,Module 3,0,3,2,EXTRA,info/expectations.md,,,,,,,,FALSE
+Requirements for win-win,TRUE,Tips & tricks for success,Module 3,0,3,3,TRUE,Tips & tricks for success,Module 3,0,3,3,EXTRA,info/requirements-m3.md,,,,,,,,FALSE
+Welcome to Ironhack,FALSE,,,,,,TRUE,Week 1,Halfday 1,1,0,0,EXTRA,md/welcome-pt.md,,,,,,,,FALSE
+JS | JavaScript Intro,TRUE,Week 1,Day 1,1,0,0,TRUE,Week 1,Halfday 1,1,0,1,,module-1/week-1/js-intro.md,https://hackmd.io/8CQnRUn4R76xcGElXa50lw,2019-09-13T22:20:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-intro.md 2019-09-13T22:20:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-intro.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/js-intro.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-intro.md,https://bitbucket.org/ironhack/web/pull-requests/188,TRUE
+JS | Data Types in JavaScript - number & string,TRUE,Week 1,Day 1,1,0,1,TRUE,Week 1,Halfday 1,1,0,2,,module-1/week-1/js-datatypes-1.md,https://hackmd.io/-ufgfQR9RneGLe-Nm6BB8g,2019-09-16T15:00:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-datatypes-1.md 2019-09-16T15:00:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-datatypes-1.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/js-datatypes-1.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-datatypes-1.md,https://bitbucket.org/ironhack/web/pull-requests/189,TRUE
+"JS | Data Types in JavaScript - boolean, undefined & null and Immutability",TRUE,Week 1,Day 1,1,0,2,TRUE,Week 1,Halfday 1,1,0,3,,module-1/week-1/js-datatypes-2.md,https://hackmd.io/z6NU64guSnu0sR2-uEb61g,2019-09-16T16:55:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-datatypes-2.md 2019-09-16T16:55:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-datatypes-2.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/js-datatypes-2.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-datatypes-2.md,https://bitbucket.org/ironhack/web/pull-requests/198/lecture-wdpt201909par-js-datatypes-2,FALSE
+JS | Numbers as Data Types - Advanced Topics,TRUE,Week 1,Day 1,1,0,3,TRUE,Week 1,Halfday 1,1,0,4,SELF_GUIDED,module-1/week-1/numbers-advanced.md,https://hackmd.io/-bXm077UQP23u1xM098yiw,2019-09-18T15:25:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/numbers-advanced.md 2019-09-18T15:25:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/numbers-advanced.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/numbers-advanced.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/numbers-advanced.md,https://bitbucket.org/ironhack/web/pull-requests/190,TRUE
+JS | Conditionals and Loops,TRUE,Week 1,Day 1,1,0,4,TRUE,Week 1,Halfday 2,1,1,0,,module-1/week-1/js-conditionals-loops.md,https://hackmd.io/CVHvFFoDSC--AsU5YeXZtg,2019-09-18T16:50:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-conditionals-loops.md 2019-09-18T16:50:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-conditionals-loops.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/js-conditionals-loops.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-conditionals-loops.md,no diff,FALSE
+LAB | JavaScript Basic Algorithms,TRUE,Week 1,Day 1,1,0,7,TRUE,Week 1,Halfday 2,1,1,1,LAB,module-1/labs/lab-javascript-basic-algorithms.md,--,,,,,,,FALSE
+VCS | Git Intro,TRUE,Week 1,Day 1,1,0,5,TRUE,Week 1,Halfday 2,1,1,2,,module-1/week-1/self-guided/git-intro.md,https://hackmd.io/oJVwSYG7TuKQdRZfekAxYg,2019-09-24T11:40:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/self-guided/git-intro.md 2019-09-24T11:40:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/self-guided/git-intro.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/self-guided/git-intro.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/self-guided/git-intro.md,no diff,FALSE
+Pair Programming Introduction,TRUE,Week 1,Day 1,1,0,6,TRUE,Week 1,Halfday 2,1,1,3,,module-1/week-1/self-guided/pair-programming.md,https://hackmd.io/WUxMppIkQQ-DTGMX6XWTvg,2019-09-20T11:20:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/self-guided/pair-programming.md 2019-09-20T11:20:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/self-guided/pair-programming.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/self-guided/pair-programming.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/self-guided/pair-programming.md,no diff,FALSE
+JS | Data Types in JavaScript - Arrays,TRUE,Week 1,Day 2,1,1,0,TRUE,Week 1,Halfday 3,1,2,0,,module-1/week-1/js-arrays.md,https://hackmd.io/W2FcnFhNS8qSAJI84WQS7w,2019-09-26T10:55:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-arrays.md 2019-09-26T10:55:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-arrays.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/js-arrays.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-arrays.md,https://bitbucket.org/ironhack/web/pull-requests/191/lecture-wdpt201909par-js-arrays,TRUE
+JS | Functions Intro,TRUE,Week 1,Day 2,1,1,1,TRUE,Week 1,Halfday 3,1,2,1,,module-1/week-1/js-functions-intro.md,https://hackmd.io/BB1Fo_-bRDSsfz7V2fmJ7Q,2019-09-26T10:55:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-functions-intro.md 2019-09-26T10:55:00Z,cba9d81,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-functions-intro.md`; echo ${FILE%%.*}) cba9d81 && code lessons/modules-1-2-3/module-1/week-1/js-functions-intro.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-functions-intro.md,na: a été splitté en plusieurs lessons,FALSE
+LAB | JavaScript Functions and Arrays,TRUE,Week 1,Day 2,1,1,2,TRUE,Week 1,Halfday 3,1,2,2,LAB,module-1/labs/lab-javascript-functions-and-arrays.md,--,,,,,,,FALSE
+HTML | Introduction,TRUE,Week 1,Day 2,1,1,3,TRUE,Week 1,Halfday 4,1,3,0,,module-1/week-1/html-intro.md,https://hackmd.io/75pFLFrqRTan15zdGJWY_g,2019-09-24T11:40:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/html-intro.md 2019-09-24T11:40:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/html-intro.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/html-intro.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/html-intro.md,no diff,FALSE
+CSS | Intro & Selectors,TRUE,Week 1,Day 2,1,1,4,TRUE,Week 1,Halfday 4,1,3,1,,module-1/week-1/css-intro.md,https://hackmd.io/Ed_R5i3gT52uuvKMWEcKYw,2019-09-24T11:40:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/css-intro.md 2019-09-24T11:40:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/css-intro.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/css-intro.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/css-intro.md,https://bitbucket.org/ironhack/web/pull-requests/192/lecture-wdpt201909par-css-intro,TRUE
+LAB | CSS Recipes clone,TRUE,Week 1,Day 2,1,1,5,TRUE,Week 1,Halfday 4,1,3,2,LAB,module-1/labs/lab-css-recipes-clone.md,--,,,,,,,FALSE
+CodeWars - Intro,TRUE,Week 1,Day 2,1,1,6,TRUE,Week 1,Halfday 4,1,3,3,KATA,module-1/week-1/self-guided/codewars.md,--,,,,,,,FALSE
+JS | Data Types in JavaScript - Objects,TRUE,Week 1,Day 3,1,2,0,TRUE,Week 2,Halfday 1,2,0,0,,module-1/week-1/js-objects.md,https://hackmd.io/5rFQHxDcRlaV-ccihcpGSQ,2019-09-27T11:30:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-objects.md 2019-09-27T11:30:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-objects.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/js-objects.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-objects.md,https://bitbucket.org/ironhack/web/pull-requests/193/lecture-wdpt201909par-js-objects,TRUE
+JS | Arrays & Objects,TRUE,Week 1,Day 3,1,2,1,TRUE,Week 2,Halfday 1,2,0,1,,module-1/week-1/js-objects-arrays.md,https://hackmd.io/uQrlILrUTIqQgIQgscI7YA,2019-09-27T11:30:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-objects-arrays.md 2019-09-27T11:30:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-objects-arrays.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/js-objects-arrays.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-objects-arrays.md,no diff,FALSE
+LAB | JavaScript Clue,TRUE,Week 1,Day 3,1,2,2,TRUE,Week 2,Halfday 1,2,0,2,LAB,module-1/labs/lab-javascript-clue.md,--,,,,,,,FALSE
+CSS | Advanced Selectors,TRUE,Week 1,Day 3,1,2,3,TRUE,Week 2,Halfday 2,2,1,0,,module-1/week-1/css-advanced-selectors.md,https://hackmd.io/jEGEgRDCTb6zLZRmEHgbCA,2019-09-27T11:30:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/css-advanced-selectors.md 2019-09-27T11:30:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/css-advanced-selectors.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/css-advanced-selectors.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/css-advanced-selectors.md,https://bitbucket.org/ironhack/web/pull-requests/194/lecture-wdpt201909par-css-advanced,FALSE
+CSS | Transitions & Animations,TRUE,Week 1,Day 3,1,2,4,TRUE,Week 2,Halfday 2,2,1,1,,module-1/week-1/css-transitions-animations.md,https://hackmd.io/nwUauVk-ROewGShgomNQ6Q,2019-09-27T11:30:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/css-transitions-animations.md 2019-09-27T11:30:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/css-transitions-animations.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/css-transitions-animations.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/css-transitions-animations.md,https://bitbucket.org/ironhack/web/pull-requests/195/lecture-wdpt201909par-css-transitions,TRUE
+LAB | CSS Spotify clone,TRUE,Week 1,Day 3,1,2,5,TRUE,Week 2,Halfday 2,2,1,2,LAB,module-1/labs/lab-css-spotify-clone.md,,,,,,,,FALSE
+CodeWars,TRUE,Week 1,Day 4,1,3,0,TRUE,Week 2,Halfday 3,2,2,0,KATA,module-1/week-1/self-guided/codewars.md,,,,,,,,FALSE
+JS | Functions Advanced,TRUE,Week 1,Day 4,1,3,1,TRUE,Week 2,Halfday 3,2,2,1,,module-1/week-1/js-functions-advanced.md,n'existait pas,,,,,,,FALSE
+"JS | Arrays - Map, Reduce & Filter",TRUE,Week 1,Day 4,1,3,2,TRUE,Week 2,Halfday 3,2,2,2,,module-1/week-1/js-arrays-filter-map-reduce.md,https://hackmd.io/9ZRZermyQxWfI954XS7exQ,2019-10-01T10:10:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-arrays-filter-map-reduce.md 2019-10-01T10:10:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-arrays-filter-map-reduce.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/js-arrays-filter-map-reduce.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-arrays-filter-map-reduce.md,https://bitbucket.org/ironhack/web/pull-requests/196/lecture-wdpt201909par-js-arrays-filter-map,FALSE
+JS | Arrays - Sort & Reverse,TRUE,Week 1,Day 4,1,3,3,TRUE,Week 2,Halfday 4,2,3,0,,module-1/week-1/js-arrays-sort-reverse.md,https://hackmd.io/ViTuftUOQxmM3QVv19w2og,2019-10-01T10:10:00Z,./findlastcommit.sh lessons/modules-1-2-3/module-1/week-1/js-arrays-sort-reverse.md 2019-10-01T10:10:00Z,79ea3ab,git checkout -b wdpt201909par/$(FILE=`basename module-1/week-1/js-arrays-sort-reverse.md`; echo ${FILE%%.*}) 79ea3ab && code lessons/modules-1-2-3/module-1/week-1/js-arrays-sort-reverse.md,./opendiff.sh lessons/modules-1-2-3/module-1/week-1/js-arrays-sort-reverse.md,https://bitbucket.org/ironhack/web/pull-requests/197/lecture-wdpt201909par-js-arrays-sort,FALSE
+LAB | Greatest movies of all time,TRUE,Week 1,Day 4,1,3,4,TRUE,Week 2,Halfday 4,2,3,1,LAB,module-1/labs/lab-javascript-greatest-movies.md,--,,,,,,,FALSE
+JS | Value vs Reference and Mutable Data Types,TRUE,Week 1,Day 4,1,3,5,TRUE,Week 2,Halfday 4,2,3,2,SELF_GUIDED,module-1/week-1/value-reference-mutability.md,https://hackmd.io/eQ5abXbMRb-_-9NCa3HbAg,,,,,,,FALSE
+"JS | OOP - objects, methods and the 'this' keyword",TRUE,Week 1,Day 5,1,4,0,TRUE,Week 3,Halfday 1,3,0,0,,module-1/week-1/js-oop-1.md,,,,,,,,FALSE
+JS | OOP - class and inheritance,TRUE,Week 1,Day 5,1,4,1,TRUE,Week 3,Halfday 1,3,0,1,,module-1/week-1/js-oop-2.md,,,,,,,,FALSE
+JS | OOP - Function constructor vs. Class,TRUE,Week 1,Day 5,1,4,2,TRUE,Week 3,Halfday 1,3,0,2,SELF_GUIDED,module-1/week-1/js-oop-3.md,,,,,,,,FALSE
+LAB | JavaScript Vikings,TRUE,Week 1,Day 5,1,4,3,TRUE,Week 3,Halfday 2,3,1,0,LAB,module-1/labs/lab-javascript-vikings.md,,,,,,,,FALSE
+Reinforcement session,TRUE,Week 1,Day 5,1,4,4,TRUE,Week 3,Halfday 2,3,1,1,,module-1/week-1/recap.md,,,,,,,,FALSE
+Semi-module retrospective,TRUE,Week 1,Day 5,1,4,5,TRUE,Week 3,Halfday 2,3,1,2,,other/module-retro.md',,,,,,,,FALSE
+CSS | Box Model,TRUE,Week 2,Day 1,2,0,0,TRUE,Week 3,Halfday 3,3,2,0,,module-1/week-1/css-box-model.md,,,,,,,,FALSE
+Bonus: CSS | Positioning,TRUE,Week 2,Day 1,2,0,1,TRUE,Week 3,Halfday 3,3,2,1,SELF_GUIDED,module-1/week-1/css-positioning.md,,,,,,,,FALSE
+CSS | Responsive Web Design,TRUE,Week 2,Day 1,2,0,2,TRUE,Week 3,Halfday 3,3,2,2,,module-1/week-1/css-responsive-design.md,,,,,,,,FALSE
+CSS | Flexbox,TRUE,Week 2,Day 1,2,0,3,TRUE,Week 3,Halfday 3,3,2,3,,module-1/week-1/css-flexbox.md,,,,,,,,FALSE
+LAB | CSS Instagram clone,TRUE,Week 2,Day 1,2,0,4,TRUE,Week 3,Halfday 3,3,2,4,LAB,module-1/labs/lab-css-instagram-clone.md,,,,,,,,FALSE
+Bonus: LAB | CSS Flexbox Slack,TRUE,Week 2,Day 1,2,0,5,TRUE,Week 3,Halfday 3,3,2,5,SELF_GUIDED,module-1/labs/lab-css-flexbox-slack.md,,,,,,,,FALSE
+"JS | Variable scope, hoisting and shadowing",TRUE,Week 2,Day 1,2,0,6,TRUE,Week 3,Halfday 4,3,3,0,,module-1/week-2/js-scope-hoist-shadow.md,,,,,,,,FALSE
+"JS | Debugging, Error Handling and JS Hint",TRUE,Week 2,Day 1,2,0,7,TRUE,Week 3,Halfday 4,3,3,1,,module-1/week-2/js-debugging.md,,,,,,,,FALSE
+JS | Async & Callbacks,TRUE,Week 2,Day 1,2,0,8,TRUE,Week 3,Halfday 4,3,3,2,,module-1/week-2/js-async-callbacks.md,,,,,,,,FALSE
+LAB | JavaScript Chronometer,TRUE,Week 2,Day 1,2,0,9,TRUE,Week 3,Halfday 4,3,3,3,LAB,module-1/labs/lab-javascript-chronometer.md,,,,,,,,FALSE
+Bonus: LAB | JavaScript Koans,TRUE,Week 2,Day 1,2,0,10,TRUE,Week 3,Halfday 4,3,3,4,SELF_GUIDED,module-1/labs/lab-javascript-koans.md,,,,,,,,FALSE
+Bonus: JS | Context & Function invocation,TRUE,Week 2,Day 1,2,0,11,TRUE,Week 3,Halfday 4,3,3,5,SELF_GUIDED,module-1/week-2/js-context-function-invocation.md,,,,,,,,FALSE
+DOM | Introduction & Selectors,TRUE,Week 2,Day 2,2,1,0,TRUE,Week 4,Halfday 1,4,0,0,,module-1/week-1/dom-introduction-selectors.md,,,,,,,,FALSE
+DOM | Manipulation,TRUE,Week 2,Day 2,2,1,1,TRUE,Week 4,Halfday 1,4,0,1,,module-1/week-1/dom-manipulation.md,,,,,,,,FALSE
+LAB | DOM Ironhack Cart,TRUE,Week 2,Day 2,2,1,2,TRUE,Week 4,Halfday 1,4,0,2,LAB,module-1/labs/lab-dom-ironhack-cart.md,,,,,,,,FALSE
+Bonus: DOM | Simon Game,TRUE,Week 2,Day 2,2,1,3,TRUE,Week 4,Halfday 1,4,0,3,SELF_GUIDED,module-1/week-2/simon-game.md,,,,,,,,FALSE
+JS | Testing & Jasmine,TRUE,Week 2,Day 2,2,1,4,TRUE,Week 4,Halfday 2,4,1,0,,module-1/week-2/js-testing-jasmine.md,,,,,,,,FALSE
+JS | Intro to testing with Jasmine,TRUE,Week 2,Day 2,2,1,5,TRUE,Week 4,Halfday 2,4,1,1,LAB,module-1/labs/lab-testing-jasmine.md,,,,,,,,FALSE
+Bonus: LAB | JavaScript Advanced Algorithms,TRUE,Week 2,Day 2,2,1,6,TRUE,Week 4,Halfday 2,4,1,2,SELF_GUIDED,module-1/labs/lab-javascript-advanced-algorithms.md,,,,,,,,FALSE
+Lab review - reinforcement of DOM manipulation concept,TRUE,Week 2,Day 3,2,2,0,TRUE,Week 4,Halfday 3,4,2,0,,module-1/week-1/dom-reinforcement.md,,,,,,,,FALSE
+CSS | Bootstrap Docs,TRUE,Week 2,Day 3,2,2,1,TRUE,Week 4,Halfday 3,4,2,1,,module-1/week-2/css-bootstrap-intro.md,,,,,,,,FALSE
+Bonus: CSS - Style Normalizing & Grid Systems,TRUE,Week 2,Day 3,2,2,2,TRUE,Week 4,Halfday 3,4,2,2,SELF_GUIDED,module-1/week-2/css-grid-systems.md,,,,,,,,FALSE
+LAB | Bootstrap Cloning Revera,TRUE,Week 2,Day 3,2,2,3,TRUE,Week 4,Halfday 3,4,2,3,LAB,module-1/labs/lab-bootstrap-cloning-revera.md,,,,,,,,FALSE
+Reinforcement - DOM: LAB | DOM Pizza Builder,TRUE,Week 2,Day 3,2,2,4,TRUE,Week 4,Halfday 4,4,3,0,LAB,module-1/labs/lab-dom-pizza-builder.md,,,,,,,,FALSE
+Reinforcement - OOP: LAB | JavaScript Memory Game,TRUE,Week 2,Day 3,2,2,5,TRUE,Week 4,Halfday 4,4,3,1,LAB,module-1/labs/lab-javascript-memory-game.md,,,,,,,,FALSE
+Canvas | Intro & Basic Drawing,TRUE,Week 2,Day 4,2,3,0,TRUE,Week 5,Halfday 1,5,0,0,,module-1/week-2/canvas-intro.md,,,,,,,,FALSE
+"Canvas | Styling, Text and Images",TRUE,Week 2,Day 4,2,3,1,TRUE,Week 5,Halfday 1,5,0,1,,module-1/week-2/canvas-drawing-text-styles.md,,,,,,,,FALSE
+LAB | Canvas Hangman,TRUE,Week 2,Day 4,2,3,2,TRUE,Week 5,Halfday 1,5,0,2,LAB,module-1/labs/lab-canvas-hangman.md,,,,,,,,FALSE
+Canvas | Basic Animations,TRUE,Week 2,Day 4,2,3,3,TRUE,Week 5,Halfday 2,5,1,0,,module-1/week-2/canvas-basic-animations.md,,,,,,,,FALSE
+Canvas | Codealong - Basic Animations,TRUE,Week 2,Day 4,2,3,4,TRUE,Week 5,Halfday 2,5,1,1,,module-1/week-2/canvas-basic-animations-codealong.md,,,,,,,,FALSE
+LAB | Canvas Race Car,TRUE,Week 2,Day 4,2,3,5,TRUE,Week 5,Halfday 2,5,1,2,LAB,module-1/labs/lab-canvas-race-car.md,,,,,,,,FALSE
+Lab review - reinforcement of Canvas concept,TRUE,Week 2,Day 5,2,4,0,TRUE,Week 5,Halfday 3,5,2,0,,module-1/week-1/canvas-reinforcement.md,,,,,,,,FALSE
+Juice your game!,TRUE,Week 2,Day 5,2,4,1,TRUE,Week 5,Halfday 3,5,2,1,EXTRA,module-1/week-2/juice-your-game.md,,,,,,,,FALSE
+Project planning session,TRUE,Week 2,Day 5,2,4,2,TRUE,Week 5,Halfday 3,5,2,2,RITUALS,other/project-planning.md,,,,,,,,FALSE
+Bonus: Project Management,TRUE,Week 2,Day 5,2,4,3,TRUE,Week 5,Halfday 3,5,2,3,,module-1/week-2/self-guided/agile-kanban.md,,,,,,,,FALSE
+VCS | Git and GitHub + GitHub Pages,TRUE,Week 2,Day 5,2,4,4,TRUE,Week 5,Halfday 3,5,2,4,,module-1/week-2/git-github-pages-deploy.md,,,,,,,,FALSE
+Project #1 Guidelines: The Game,TRUE,Week 2,Day 5,2,4,5,TRUE,Week 5,Halfday 3,5,2,5,PROJECT,module-1/project-1.md,,,,,,,,FALSE
+Bonus: Canvas | Transformations and Compositing,TRUE,Week 2,Day 5,2,4,6,TRUE,Week 5,Halfday 4,5,3,0,SELF_GUIDED,module-1/week-2/canvas-transformations-compositing.md,,,,,,,,FALSE
+Bonus: Canvas | Advanced Animations,TRUE,Week 2,Day 5,2,4,7,TRUE,Week 5,Halfday 4,5,3,1,SELF_GUIDED,module-1/week-2/canvas-advanced-animations.md,,,,,,,,FALSE
+Bonus: LAB | Canvas Flappy Birds,TRUE,Week 2,Day 5,2,4,8,TRUE,Week 5,Halfday 4,5,3,2,LAB,module-1/labs/lab-canvas-flappybirds.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 3,Day 1,3,0,0,TRUE,Week 6,Halfday 1,6,0,0,PROJECT,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Anagrams,TRUE,Week 3,Day 1,3,0,1,TRUE,Week 6,Halfday 1,6,0,1,,module-1/week-3/kata-anagrams.md,,,,,,,,FALSE
+Bonus: Structure your code,TRUE,Week 3,Day 1,3,0,2,TRUE,Week 6,Halfday 2,6,1,0,SELF_GUIDED,module-1/week-2/self-guided/js-good-patterns.md,,,,,,,,FALSE
+Project development,TRUE,Week 3,Day 1,3,0,3,TRUE,Week 6,Halfday 2,6,1,1,PROJECT,other/project-dev.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 3,Day 2,3,1,0,TRUE,Week 6,Halfday 3,6,2,0,PROJECT,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Clocky Mc Clock-Face,TRUE,Week 3,Day 2,3,1,1,TRUE,Week 6,Halfday 3,6,2,1,,module-1/week-3/kata-clocky-mc-clock-face.md,,,,,,,,FALSE
+Bonus: Markdown and READMEs,TRUE,Week 3,Day 2,3,1,2,TRUE,Week 6,Halfday 4,6,3,0,SELF_GUIDED,module-1/week-2/self-guided/markdown-intro.md,,,,,,,,FALSE
+Project development,TRUE,Week 3,Day 2,3,1,3,TRUE,Week 6,Halfday 4,6,3,1,PROJECT,other/project-dev.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 3,Day 3,3,2,0,TRUE,Week 7,Halfday 1,7,0,0,PROJECT,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Sorting a 2D array,TRUE,Week 3,Day 3,3,2,1,TRUE,Week 7,Halfday 1,7,0,1,,module-1/week-3/kata-sorting-2d-array.md,,,,,,,,FALSE
+Bonus: Advanced Command Line,TRUE,Week 3,Day 3,3,2,2,TRUE,Week 7,Halfday 1,7,0,2,SELF_GUIDED,module-1/week-1/self-guided/command-line.md,,,,,,,,FALSE
+Project development,TRUE,Week 3,Day 3,3,2,3,TRUE,Week 7,Halfday 2,7,1,0,PROJECT,other/project-dev.md,,,,,,,,FALSE
+Presentation practice (optional),TRUE,Week 3,Day 3,3,2,4,TRUE,Week 7,Halfday 2,7,1,1,PROJECT,other/presentations.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 3,Day 4,3,3,0,TRUE,Week 7,Halfday 3,7,2,0,PROJECT,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: TGI Friday!!,TRUE,Week 3,Day 4,3,3,1,TRUE,Week 7,Halfday 3,7,2,1,,module-1/week-3/kata-tgi-friday.md,,,,,,,,FALSE
+Project development,TRUE,Week 3,Day 4,3,3,2,TRUE,Week 7,Halfday 4,7,3,0,PROJECT,other/project-dev.md,,,,,,,,FALSE
+Presentation practice (mandatory),TRUE,Week 3,Day 4,3,3,3,TRUE,Week 7,Halfday 4,7,3,1,PROJECT,other/presentations.md,,,,,,,,FALSE
+Project development,TRUE,Week 3,Day 5,3,4,0,TRUE,Week 8,Halfday 1,8,0,0,PROJECT,other/project-dev.md,,,,,,,,FALSE
+Presentations - Project #1,TRUE,Week 3,Day 5,3,4,1,TRUE,Week 8,Halfday 2,8,1,0,,other/final-presentation.md,,,,,,,,FALSE
+Project retrospective,TRUE,Week 4,Day 1,4,0,0,TRUE,Week 8,Halfday 3,8,2,0,RITUALS,other/project-retro.md,,,,,,,,FALSE
+Project feedback,TRUE,Week 4,Day 1,4,0,1,TRUE,Week 8,Halfday 3,8,2,1,RITUALS,other/project-feedback.md,,,,,,,,FALSE
+JS | Destructuring Assignment and Parameter Handling,TRUE,Week 4,Day 1,4,0,2,TRUE,Week 8,Halfday 3,8,2,2,,module-1/week-2/js-es6-advanced.md,,,,,,,,FALSE
+ES6 | Promises,TRUE,Week 4,Day 1,4,0,3,TRUE,Week 8,Halfday 4,8,3,0,,module-2/week-4/js-es6-promises.md,,,,,,,,FALSE
+LAB | #Promise me a dinner,TRUE,Week 4,Day 1,4,0,4,TRUE,Week 8,Halfday 4,8,3,1,LAB,module-2/labs/lab-es6-promises.md,,,,,,,,FALSE
+LAB | ES6 JavaScript Koans,TRUE,Week 4,Day 1,4,0,5,TRUE,Week 8,Halfday 4,8,3,2,SELF_GUIDED,module-2/labs/lab-es6-javascript-koans.md,,,,,,,,FALSE
+How the Internet works,TRUE,Week 4,Day 2,4,1,0,TRUE,Week 9,Halfday 1,9,0,0,,module-2/week-4/self-guided/how-does-the-internet-work.md,,,,,,,,FALSE
+Node | Intro & Installation,TRUE,Week 4,Day 2,4,1,1,TRUE,Week 9,Halfday 1,9,0,1,,module-2/week-4/node-npm-intro.md,,,,,,,,FALSE
+Node | The Internet & HTTP Server,TRUE,Week 4,Day 2,4,1,2,TRUE,Week 9,Halfday 1,9,0,2,,module-2/week-4/node-http.md,,,,,,,,FALSE
+LAB | Intro Node,TRUE,Week 4,Day 2,4,1,3,TRUE,Week 9,Halfday 1,9,0,3,LAB,module-2/labs/lab-intro-node.md,,,,,,,,FALSE
+Express | Introduction,TRUE,Week 4,Day 2,4,1,4,TRUE,Week 9,Halfday 2,9,1,0,,module-2/week-4/express-intro.md,,,,,,,,FALSE
+LAB | Express Basic Site,TRUE,Week 4,Day 2,4,1,5,TRUE,Week 9,Halfday 2,9,1,1,LAB,module-2/labs/lab-express-basic-site.md,,,,,,,,FALSE
+Express | Dynamic Views,TRUE,Week 4,Day 3,4,2,0,TRUE,Week 9,Halfday 3,9,2,0,,module-2/week-4/express-dynamic-views.md,,,,,,,,FALSE
+Express | Layouts & Partials,TRUE,Week 4,Day 3,4,2,1,TRUE,Week 9,Halfday 3,9,2,1,,module-2/week-4/express-layouts.md,,,,,,,,FALSE
+What is an API?,TRUE,Week 4,Day 3,4,2,2,TRUE,Week 9,Halfday 3,9,2,2,,module-2/week-5/api-microservices.md,,,,,,,,FALSE
+LAB | IronBeers,TRUE,Week 4,Day 3,4,2,3,TRUE,Week 9,Halfday 3,9,2,3,LAB,module-2/labs/lab-ironbeers.md,,,,,,,,FALSE
+MongoDB | Introduction,TRUE,Week 4,Day 3,4,2,4,TRUE,Week 9,Halfday 4,9,3,0,,module-2/week-4/mongo-intro.md,,,,,,,,FALSE
+MongoDB | Shell & CRUD operations,TRUE,Week 4,Day 3,4,2,5,TRUE,Week 9,Halfday 4,9,3,1,SELF_GUIDED,module-2/week-4/mongo-shell-crud.md,,,,,,,,FALSE
+MongoDB | MongoDB Compass CRUD Operations,TRUE,Week 4,Day 3,4,2,6,TRUE,Week 9,Halfday 4,9,3,2,,module-2/week-4/mongo-compass-crud.md,,,,,,,,FALSE
+MongoDB | Data Models,TRUE,Week 4,Day 3,4,2,7,TRUE,Week 9,Halfday 4,9,3,3,,module-2/week-4/mongo-data-models.md,,,,,,,,FALSE
+LAB | MongoDB - Advanced Querying,TRUE,Week 4,Day 3,4,2,8,TRUE,Week 9,Halfday 4,9,3,4,LAB,module-2/labs/lab-advance-querying-mongo.md,,,,,,,,FALSE
+MongoDB | Indexing & Aggregation Framework,TRUE,Week 4,Day 3,4,2,9,TRUE,Week 9,Halfday 4,9,3,5,SELF_GUIDED,module-2/week-4/self-guided/mongo-advanced.md,,,,,,,,FALSE
+Mongoose | Introduction,TRUE,Week 4,Day 4,4,3,0,TRUE,Week 10,Halfday 1,10,0,0,,module-2/week-4/mongoose-intro.md,,,,,,,,FALSE
+"Mongoose | Schemas, Models & Documents",TRUE,Week 4,Day 4,4,3,1,TRUE,Week 10,Halfday 1,10,0,1,,module-2/week-4/mongoose-schemas-models-documents.md,,,,,,,,FALSE
+LAB | Mongoose Recipes,TRUE,Week 4,Day 4,4,3,2,TRUE,Week 10,Halfday 2,10,1,0,LAB,module-2/labs/lab-mongoose-recipes.md,,,,,,,,FALSE
+Reinforcement session,TRUE,Week 4,Day 4,4,3,3,TRUE,Week 10,Halfday 2,10,1,1,,module-1/week-1/recap.md,,,,,,,,FALSE
+CodeWars,TRUE,Week 4,Day 5,4,4,0,TRUE,Week 10,Halfday 3,10,2,0,KATA,module-1/week-1/self-guided/codewars.md,,,,,,,,FALSE
+Express | GET Method - Route Params & Query String,TRUE,Week 4,Day 5,4,4,1,TRUE,Week 10,Halfday 3,10,2,1,,module-2/week-4/express-get-params.md,,,,,,,,FALSE
+Express | POST Method - Request Body,TRUE,Week 4,Day 5,4,4,2,TRUE,Week 10,Halfday 3,10,2,2,,module-2/week-4/express-post-params.md,,,,,,,,FALSE
+LAB | Express Spotify,TRUE,Week 4,Day 5,4,4,3,TRUE,Week 10,Halfday 4,10,3,0,LAB,module-2/labs/lab-express-spotify.md,,,,,,,,FALSE
+Lab review - reinforcement of Express GET and POST concept,TRUE,Week 4,Day 5,4,4,4,TRUE,Week 10,Halfday 4,10,3,1,,module-2/week-4/get-post-reinforcement.md,,,,,,,,FALSE
+Node | Asynchrony,TRUE,Week 4,Day 5,4,4,5,TRUE,Week 10,Halfday 4,10,3,2,SELF_GUIDED,module-2/week-4/self-guided/node-async.md,,,,,,,,FALSE
+Express | Express Generator,TRUE,Week 5,Day 1,5,0,0,TRUE,Week 11,Halfday 1,11,0,0,,module-2/week-4/express-generator.md,,,,,,,,FALSE
+Mongoose&Express | List - Read Documents,TRUE,Week 5,Day 1,5,0,1,TRUE,Week 11,Halfday 1,11,0,1,,module-2/week-4/mongoose-express-list-read.md,,,,,,,,FALSE
+LAB | Express Cinema,TRUE,Week 5,Day 1,5,0,2,TRUE,Week 11,Halfday 1,11,0,2,LAB,module-2/labs/lab-express-cinema.md,,,,,,,,FALSE
+Mongoose&Express | Basic CRUD,TRUE,Week 5,Day 1,5,0,3,TRUE,Week 11,Halfday 2,11,1,0,,module-2/week-4/mongoose-express-basic-crud.md,,,,,,,,FALSE
+LAB | Express Drones,TRUE,Week 5,Day 1,5,0,4,TRUE,Week 11,Halfday 2,11,1,1,LAB,module-2/labs/lab-express-drones,,,,,,,,FALSE
+Mongoose&Express | Documents Relationships,TRUE,Week 5,Day 2,5,1,0,TRUE,Week 11,Halfday 3,11,2,0,,module-2/week-4/mongoose-express-relationships.md,,,,,,,,FALSE
+LAB | Mongoose Movies & Celebrities,TRUE,Week 5,Day 2,5,1,1,TRUE,Week 11,Halfday 3,11,2,1,LAB,module-2/labs/lab-mongoose-movies.md,,,,,,,,FALSE
+Lab review - reinforcement of CRUD concept,TRUE,Week 5,Day 2,5,1,2,TRUE,Week 11,Halfday 4,11,3,0,,module-2/week-4/crud-reinforcement.md,,,,,,,,FALSE
+Node | The concern on users' security,TRUE,Week 5,Day 3,5,2,0,TRUE,Week 12,Halfday 1,12,0,0,,module-2/week-5/node-bcrypt.md,,,,,,,,FALSE
+Node | User registration,TRUE,Week 5,Day 3,5,2,1,TRUE,Week 12,Halfday 1,12,0,1,,module-2/week-5/user-registration.md,,,,,,,,FALSE
+LAB | Express basic auth - iteration 1,TRUE,Week 5,Day 3,5,2,2,TRUE,Week 12,Halfday 1,12,0,2,LAB,module-2/labs/lab-express-basic-auth.md,,,,,,,,FALSE
+Node | Form validation,TRUE,Week 5,Day 3,5,2,3,TRUE,Week 12,Halfday 2,12,1,0,,module-2/week-5/form-validation.md,,,,,,,,FALSE
+Node | Basic Authentication & Sessions,TRUE,Week 5,Day 3,5,2,4,TRUE,Week 12,Halfday 2,12,1,1,,module-2/week-5/node-basic-authentication.md,,,,,,,,FALSE
+LAB | Express basic auth - iterations 2 and 3,TRUE,Week 5,Day 3,5,2,5,TRUE,Week 12,Halfday 2,12,1,2,LAB,module-2/labs/lab-express-basic-auth.md,,,,,,,,FALSE
+"Passport | Sign Up, Login, Logout",TRUE,Week 5,Day 3,5,2,6,TRUE,Week 12,Halfday 2,12,1,3,SELF_GUIDED,module-2/week-5/node-passport-login.md,,,,,,,,FALSE
+LAB | Authentication with passport,TRUE,Week 5,Day 3,5,2,7,TRUE,Week 12,Halfday 2,12,1,4,SELF_GUIDED,module-2/labs/lab-authentication-with-passport.md,,,,,,,,FALSE
+Passport | Security & Roles,TRUE,Week 5,Day 3,5,2,8,TRUE,Week 12,Halfday 2,12,1,5,SELF_GUIDED,module-2/week-5/node-passport-roles.md,,,,,,,,FALSE
+LAB | Passport roles,TRUE,Week 5,Day 3,5,2,9,TRUE,Week 12,Halfday 2,12,1,6,SELF_GUIDED,module-2/labs/lab-passport-roles.md,,,,,,,,FALSE
+Passport | Strategies and Social Login,TRUE,Week 5,Day 3,5,2,10,TRUE,Week 12,Halfday 2,12,1,7,SELF_GUIDED,module-2/week-5/node-passport-strategies.md,,,,,,,,FALSE
+VCS | Collaboration with GitHub,TRUE,Week 5,Day 3,5,2,11,TRUE,Week 12,Halfday 2,12,1,8,,module-2/week-5/git-github-collaboration.md,,,,,,,,FALSE
+Users to Movies&Celebrities - reinforcement of auth concept,TRUE,Week 5,Day 4,5,3,0,TRUE,Week 12,Halfday 3,12,2,0,LAB,module-2/week-5/node-auth-reinforcement.md,,,,,,,,FALSE
+AXIOS | GET Request,TRUE,Week 5,Day 4,5,3,1,TRUE,Week 12,Halfday 3,12,2,1,,module-2/week-5/axios-get.md,,,,,,,,FALSE
+Bonus: LAB | Financial data graphing,TRUE,Week 5,Day 4,5,3,2,TRUE,Week 12,Halfday 3,12,2,2,LAB,module-2/labs/lab-financial-data-graphing.md,,,,,,,,FALSE
+"AXIOS | POST, PUT and DELETE request",TRUE,Week 5,Day 4,5,3,3,TRUE,Week 12,Halfday 4,12,3,0,,module-2/week-5/axios-post-put-delete.md,,,,,,,,FALSE
+JSON Server,TRUE,Week 5,Day 4,5,3,4,TRUE,Week 12,Halfday 4,12,3,1,,module-2/week-5/json-server.md,,,,,,,,FALSE
+LAB | AXIOS CRUD Characters,TRUE,Week 5,Day 4,5,3,5,TRUE,Week 12,Halfday 4,12,3,2,LAB,module-2/labs/lab-ajax-crud-characters.md,,,,,,,,FALSE
+Express | File Upload CDN,TRUE,Week 5,Day 5,5,4,0,TRUE,Week 13,Halfday 1,13,0,0,,module-2/week-5/file-upload-cdn.md,,,,,,,,FALSE
+Bonus: Express | File Upload,TRUE,Week 5,Day 5,5,4,1,TRUE,Week 13,Halfday 1,13,0,1,,module-2/week-5/node-file-upload.md,,,,,,,,FALSE
+Bonus: LAB | File Upload,TRUE,Week 5,Day 5,5,4,2,TRUE,Week 13,Halfday 1,13,0,2,LAB,module-2/labs/lab-file-upload.md,,,,,,,,FALSE
+Bonus: LAB | IronRooms,TRUE,Week 5,Day 5,5,4,3,TRUE,Week 13,Halfday 2,13,1,0,LAB,module-2/labs/lab-express-rooms-with-reviews.md,,,,,,,,FALSE
+Deploy to Heroku,TRUE,Week 5,Day 5,5,4,4,TRUE,Week 13,Halfday 2,13,1,1,,module-2/week-5/node-heroku-deploy.md,,,,,,,,FALSE
+Project planning session,TRUE,Week 5,Day 5,5,4,5,TRUE,Week 13,Halfday 2,13,1,2,RITUALS,other/project-planning.md,,,,,,,,FALSE
+Project #2 Guidelines: Full-stack Web Application,TRUE,Week 5,Day 5,5,4,6,TRUE,Week 13,Halfday 2,13,1,3,PROJECT,module-2/project-2.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 6,Day 1,6,0,0,TRUE,Week 13,Halfday 3,13,2,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Persistent Bugger,TRUE,Week 6,Day 1,6,0,1,TRUE,Week 13,Halfday 3,13,2,1,,module-2/week-6/kata-persistent-bugger.md,,,,,,,,FALSE
+Software Engineering Principles,TRUE,Week 6,Day 1,6,0,2,TRUE,Week 13,Halfday 4,13,3,0,SELF_GUIDED,module-2/week-5/self-guided/software-engineering-principles.md,,,,,,,,FALSE
+Project development,TRUE,Week 6,Day 1,6,0,3,TRUE,Week 13,Halfday 4,13,3,1,,other/project-dev.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 6,Day 2,6,1,0,TRUE,Week 14,Halfday 1,14,0,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Playing with digits,TRUE,Week 6,Day 2,6,1,1,TRUE,Week 14,Halfday 1,14,0,1,,module-2/week-6/kata-playing-with-digits.md,,,,,,,,FALSE
+Google Maps | Geolocation,TRUE,Week 6,Day 2,6,1,2,TRUE,Week 14,Halfday 1,14,0,2,SELF_GUIDED,module-2/week-5/google-maps-geolocation.md,,,,,,,,FALSE
+Google Maps & Express,TRUE,Week 6,Day 2,6,1,3,TRUE,Week 14,Halfday 2,14,1,0,SELF_GUIDED,module-2/week-5/google-maps-express.md,,,,,,,,FALSE
+LAB | Coffee and books,TRUE,Week 6,Day 2,6,1,4,TRUE,Week 14,Halfday 2,14,1,1,SELF_GUIDED,module-2/labs/lab-coffee-and-books.md,,,,,,,,FALSE
+Project development,TRUE,Week 6,Day 2,6,1,5,TRUE,Week 14,Halfday 2,14,1,2,,other/project-dev.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 6,Day 3,6,2,0,TRUE,Week 14,Halfday 3,14,2,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Find the missing letter,TRUE,Week 6,Day 3,6,2,1,TRUE,Week 14,Halfday 3,14,2,1,,module-2/week-6/kata-find-the-missing-letter.md,,,,,,,,FALSE
+Nodemailer,TRUE,Week 6,Day 3,6,2,2,TRUE,Week 14,Halfday 3,14,2,2,SELF_GUIDED,module-2/week-5/nodemailer.md,,,,,,,,FALSE
+LAB | Nodemailer,TRUE,Week 6,Day 3,6,2,3,TRUE,Week 14,Halfday 4,14,3,0,SELF_GUIDED,module-2/labs/lab-nodemailer.md,,,,,,,,FALSE
+Project development,TRUE,Week 6,Day 3,6,2,4,TRUE,Week 14,Halfday 4,14,3,1,,other/project-dev.md,,,,,,,,FALSE
+Presentation practice (optional),TRUE,Week 6,Day 3,6,2,5,TRUE,Week 14,Halfday 4,14,3,2,,other/presentations.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 6,Day 4,6,3,0,TRUE,Week 15,Halfday 1,15,0,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Street Fighter 2 - Character selection,TRUE,Week 6,Day 4,6,3,1,TRUE,Week 15,Halfday 1,15,0,1,,module-2/week-6/kata-street-fighter-2.md,,,,,,,,FALSE
+Project development,TRUE,Week 6,Day 4,6,3,2,TRUE,Week 15,Halfday 2,15,1,0,,other/project-dev.md,,,,,,,,FALSE
+Presentation practice (mandatory),TRUE,Week 6,Day 4,6,3,3,TRUE,Week 15,Halfday 2,15,1,1,,other/presentations.md,,,,,,,,FALSE
+Project development,TRUE,Week 6,Day 5,6,4,0,TRUE,Week 15,Halfday 3,15,2,0,,other/project-dev.md,,,,,,,,FALSE
+Presentations - Project #2,TRUE,Week 6,Day 5,6,4,1,TRUE,Week 15,Halfday 4,15,3,0,,other/final-presentation.md,,,,,,,,FALSE
+Project retrospective,TRUE,Week 7,Day 1,7,0,0,TRUE,Week 16,Halfday 1,16,0,0,,module-2/week-4/retrospective.md,,,,,,,,FALSE
+Project feedback,TRUE,Week 7,Day 1,7,0,1,TRUE,Week 16,Halfday 1,16,0,1,,module-3/week-7/retrospective.md,,,,,,,,FALSE
+React | Intro to React - Create React app from the scratch,TRUE,Week 7,Day 1,7,0,2,TRUE,Week 16,Halfday 2,16,1,0,,module-3/week-7/react-intro-babel-webpack.md,,,,,,,,FALSE
+"React | Create React App, JSX and React elements",TRUE,Week 7,Day 1,7,0,3,TRUE,Week 16,Halfday 2,16,1,1,,module-3/week-7/cra-jsx-elements.md,,,,,,,,FALSE
+LAB | Hello Ironhack,TRUE,Week 7,Day 1,7,0,4,TRUE,Week 16,Halfday 2,16,1,2,LAB,module-3/labs/lab-hello-ironhack.md,,,,,,,,FALSE
+React | Components and Props,TRUE,Week 7,Day 2,7,1,0,TRUE,Week 16,Halfday 3,16,2,0,,module-3/week-7/props.md,,,,,,,,FALSE
+LAB | Bulma,TRUE,Week 7,Day 2,7,1,1,TRUE,Week 16,Halfday 3,16,2,1,LAB,module-3/labs/lab-bulma-components.md,,,,,,,,FALSE
+React | State,TRUE,Week 7,Day 2,7,1,2,TRUE,Week 16,Halfday 3,16,2,2,,module-3/week-7/state.md,,,,,,,,FALSE
+LAB | React training [steps 1-7],TRUE,Week 7,Day 2,7,1,3,TRUE,Week 16,Halfday 4,16,3,0,LAB,module-3/labs/lab-react-training.md,,,,,,,,FALSE
+React | Composition and Inheritance - general concept,TRUE,Week 7,Day 2,7,1,4,TRUE,Week 16,Halfday 4,16,3,1,SELF_GUIDED,module-3/week-7/composition-inheritance-general.md,,,,,,,,FALSE
+React | Using composition in React,TRUE,Week 7,Day 2,7,1,5,TRUE,Week 16,Halfday 4,16,3,2,SELF_GUIDED,module-3/week-7/using-composition-in-react.md,,,,,,,,FALSE
+React | Composition vs. Inheritance,TRUE,Week 7,Day 2,7,1,6,TRUE,Week 16,Halfday 4,16,3,3,SELF_GUIDED,module-3/week-7/sg-composition-inheritance.md,,,,,,,,FALSE
+React | List & Keys,TRUE,Week 7,Day 3,7,2,0,TRUE,Week 17,Halfday 1,17,0,0,,module-3/week-7/list-keys.md,,,,,,,,FALSE
+React | Conditional Rendering,TRUE,Week 7,Day 3,7,2,1,TRUE,Week 17,Halfday 1,17,0,1,,module-3/week-7/conditional-rendering.md,,,,,,,,FALSE
+LAB | React IronContacts,TRUE,Week 7,Day 3,7,2,2,TRUE,Week 17,Halfday 1,17,0,2,LAB,module-3/labs/lab-react-ironcontacts.md,,,,,,,,FALSE
+React | Forms,TRUE,Week 7,Day 3,7,2,3,TRUE,Week 17,Halfday 2,17,1,0,,module-3/week-7/forms.md,,,,,,,,FALSE
+LAB | React IronNutrition,TRUE,Week 7,Day 3,7,2,4,TRUE,Week 17,Halfday 2,17,1,1,LAB,module-3/labs/lab-react-ironnutrition.md,,,,,,,,FALSE
+"Lab review - reinforcement of state, props, forms in React",TRUE,Week 7,Day 4,7,3,0,TRUE,Week 17,Halfday 3,17,2,0,,module-3/week-7/state-props-forms-reinforcement.md,,,,,,,,FALSE
+React | Lifting State Up,TRUE,Week 7,Day 4,7,3,1,TRUE,Week 17,Halfday 3,17,2,1,,module-3/week-7/lifting-state-up.md,,,,,,,,FALSE
+LAB | Thinking in React,TRUE,Week 7,Day 4,7,3,2,TRUE,Week 17,Halfday 3,17,2,2,LAB,module-3/labs/lab-thinking-in-react.md,,,,,,,,FALSE
+React | Lifecycle methods,TRUE,Week 7,Day 4,7,3,3,TRUE,Week 17,Halfday 4,17,3,0,,module-3/week-7/lifecycle-methods.md,,,,,,,,FALSE
+React | Intro to Routing,TRUE,Week 7,Day 4,7,3,4,TRUE,Week 17,Halfday 4,17,3,1,,module-3/week-7/routing-intro.md,,,,,,,,FALSE
+LAB | React Training [steps 8 and up],TRUE,Week 7,Day 4,7,3,5,TRUE,Week 17,Halfday 4,17,3,2,SELF_GUIDED,module-3/labs/lab-react-training.md,,,,,,,,FALSE
+React | Lifting State Up - advanced,TRUE,Week 7,Day 4,7,3,6,TRUE,Week 17,Halfday 4,17,3,3,SELF_GUIDED,module-3/week-7/additional-lifting-state-up.md,,,,,,,,FALSE
+React | Routing Advanced,TRUE,Week 7,Day 5,7,4,0,TRUE,Week 18,Halfday 1,18,0,0,,module-3/week-7/routing-advanced.md,,,,,,,,FALSE
+LAB | Wiki Countries,TRUE,Week 7,Day 5,7,4,1,TRUE,Week 18,Halfday 1,18,0,1,LAB,module-3/labs/lab-wiki-countries.md,,,,,,,,FALSE
+React | Connecting React app to the backend,TRUE,Week 7,Day 5,7,4,2,TRUE,Week 18,Halfday 2,18,1,0,,module-3/week-7/connecting-react-to-backend.md,,,,,,,,FALSE
+LAB | React IronBeers,TRUE,Week 7,Day 5,7,4,3,TRUE,Week 18,Halfday 2,18,1,1,LAB,module-3/labs/lab-react-ironbeers.md,,,,,,,,FALSE
+React | Building the Rest API,TRUE,Week 8,Day 1,8,0,0,TRUE,Week 18,Halfday 3,18,2,0,,module-3/week-7/front-back-integration-I.md,,,,,,,,FALSE
+React | Integrating the React App,TRUE,Week 8,Day 1,8,0,1,TRUE,Week 18,Halfday 3,18,2,1,,module-3/week-7/front-back-integration-II.md,,,,,,,,FALSE
+React | Authentication,TRUE,Week 8,Day 1,8,0,2,TRUE,Week 18,Halfday 4,18,3,0,,module-3/week-8/authentication.md,,,,,,,,FALSE
+React & Express | File Upload,TRUE,Week 8,Day 2,8,1,0,TRUE,Week 19,Halfday 1,19,0,0,,module-3/week-8/file-upload.md,,,,,,,,FALSE
+Bonus: LAB | Profile App,TRUE,Week 8,Day 2,8,1,1,TRUE,Week 19,Halfday 1,19,0,1,LAB,module-3/labs/lab-profile-app.md,,,,,,,,FALSE
+React | Deployment,TRUE,Week 8,Day 2,8,1,2,TRUE,Week 19,Halfday 2,19,1,0,,module-3/week-8/deployment.md,,,,,,,,FALSE
+Project #3 Guidelines: MERN Web Application,TRUE,Week 8,Day 2,8,1,3,TRUE,Week 19,Halfday 2,19,1,1,PROJECT,module-3/project-3.md,,,,,,,,FALSE
+Project planning session,TRUE,Week 8,Day 2,8,1,4,TRUE,Week 19,Halfday 2,19,1,2,RITUALS,other/project-planning.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 8,Day 3,8,2,0,TRUE,Week 19,Halfday 3,19,2,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Scramblies,TRUE,Week 8,Day 3,8,2,1,TRUE,Week 19,Halfday 3,19,2,1,,module-3/week-8/kata-scramblies.md,,,,,,,,FALSE
+Project development,TRUE,Week 8,Day 3,8,2,2,TRUE,Week 19,Halfday 4,19,3,0,,other/project-dev.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 8,Day 4,8,3,0,TRUE,Week 20,Halfday 1,20,0,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Balancing parentheses,TRUE,Week 8,Day 4,8,3,1,TRUE,Week 20,Halfday 1,20,0,1,,module-3/week-8/kata-balancing-parentheses.md,,,,,,,,FALSE
+Project development,TRUE,Week 8,Day 4,8,3,2,TRUE,Week 20,Halfday 2,20,1,0,,other/project-dev.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 8,Day 5,8,4,0,TRUE,Week 20,Halfday 3,20,2,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Pete the baker,TRUE,Week 8,Day 5,8,4,1,TRUE,Week 20,Halfday 3,20,2,0,,module-3/week-8/kata-pete-the-baker.md,,,,,,,,FALSE
+Project development,TRUE,Week 8,Day 5,8,4,2,TRUE,Week 20,Halfday 4,20,3,0,,other/project-dev.md,,,,,,,,FALSE
+Project development,TRUE,Week 9,Day 4,9,3,1,TRUE,Week 22,Halfday 4,20,3,0,,other/project-dev.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 9,Day 1,9,0,0,TRUE,Week 21,Halfday 1,21,0,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Directions reduction,TRUE,Week 9,Day 1,9,0,1,TRUE,Week 21,Halfday 2,21,1,0,,module-3/week-8/kata-directions-reduction.md,,,,,,,,FALSE
+Project development,TRUE,Week 9,Day 1,9,0,2,TRUE,Week 21,Halfday 2,21,1,1,,other/project-dev.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 9,Day 2,9,1,0,TRUE,Week 21,Halfday 3,21,2,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Sum of pairs,TRUE,Week 9,Day 2,9,1,1,TRUE,Week 21,Halfday 3,21,2,1,,module-3/week-9/kata-sum-of-pairs.md,,,,,,,,FALSE
+Project development,TRUE,Week 9,Day 2,9,1,2,TRUE,Week 21,Halfday 4,21,3,0,,other/project-dev.md,,,,,,,,FALSE
+Presentation practice (optional),TRUE,Week 9,Day 2,9,1,3,TRUE,Week 21,Halfday 4,21,3,1,,other/presentations.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 9,Day 3,9,2,0,TRUE,Week 22,Halfday 1,22,0,0,,other/stand-ups.md,,,,,,,,FALSE
+Code interview test: Don't eat the last cake,TRUE,Week 9,Day 3,9,2,1,TRUE,Week 22,Halfday 1,22,0,1,,module-3/week-9/kata-dont-eat-last-cake.md,,,,,,,,FALSE
+Project development,TRUE,Week 9,Day 3,9,2,2,TRUE,Week 22,Halfday 2,22,1,0,,other/project-dev.md,,,,,,,,FALSE
+Presentation practice (mandatory),TRUE,Week 9,Day 3,9,2,3,TRUE,Week 22,Halfday 2,22,1,1,,other/presentations.md,,,,,,,,FALSE
+Stand ups,TRUE,Week 9,Day 4,9,3,0,TRUE,Week 22,Halfday 3,22,2,0,,other/stand-ups.md,,,,,,,,FALSE
+Project development,FALSE,,,-1,-1,,TRUE,Week 23,Halfday 1,23,0,0,,,,,,,,,,FALSE
+Project development,FALSE,,,-1,-1,,TRUE,Week 23,Halfday 2,23,1,0,,,,,,,,,,FALSE
+Project development,FALSE,,,-1,-1,,TRUE,Week 23,Halfday 3,23,2,0,,,,,,,,,,FALSE
+Project development,FALSE,,,-1,-1,,TRUE,Week 23,Halfday 4,23,3,0,,,,,,,,,,FALSE
+Project development,FALSE,,,-1,-1,,TRUE,Week 24,Halfday 1,24,0,0,,,,,,,,,,FALSE
+Project development,FALSE,,,-1,-1,,TRUE,Week 24,Halfday 2,24,1,0,,,,,,,,,,FALSE
+Project development,FALSE,,,-1,-1,,TRUE,Week 24,Halfday 3,24,2,0,,other/project-dev.md,,,,,,,,FALSE
+Presentations - Project #3,TRUE,Week 9,Day 5,9,4,0,TRUE,Week 24,Halfday 4,24,3,0,,other/final-presentation.md,,,,,,,,FALSE
+Time distribution,TRUE,Tips & tricks for success,Module 1,0,1,0,FALSE,,,,,,EXTRA,info/ft-time-dist-m1.md,,,,,,,,FALSE
+Time distribution,TRUE,Tips & tricks for success,Module 2,0,2,0,FALSE,,,,,,EXTRA,info/ft-time-dist-m2.md,,,,,,,,FALSE
+Time distribution,TRUE,Tips & tricks for success,Module 3,0,3,0,FALSE,,,,,,EXTRA,info/ft-time-dist-m3.md,,,,,,,,FALSE
